@@ -1,5 +1,6 @@
 {
   "name": "@alberto-f/middleware",
+  "private": true,
   "version": "0.5.0",
   "description": "Use the middleware pattern you loved from Express in any code",
   "main": "index.js",
@@ -21,5 +22,8 @@
   "devDependencies": {
     "mocha": "^8.0.1",
     "parcel-bundler": "^1.12.4"
+  },
+  "engines": {
+    "node": ">= 10.12.0"
   }
 }
