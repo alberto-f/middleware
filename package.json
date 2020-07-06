@@ -1,6 +1,5 @@
 {
   "name": "@alberto-f/middleware",
-  "private": true,
   "version": "0.5.0",
   "description": "Use the middleware pattern you loved from Express in any code",
   "main": "index.js",
