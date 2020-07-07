@@ -1,12 +1,13 @@
 {
   "name": "@alberto-f/middleware",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Use the middleware pattern you loved from Express in any code",
   "main": "index.js",
   "scripts": {
     "build": "parcel build index.js",
     "test": "mocha",
-    "test:debug": "mocha --inspect-brk"
+    "test:debug": "mocha --inspect-brk",
+    "publish:github": "npm test && npm build && npm publish"
   },
   "repository": {
     "type": "git",
