@@ -2,9 +2,10 @@
   "name": "@alberto-f/middleware",
   "version": "0.5.1",
   "description": "Use the middleware pattern you loved from Express in any code",
-  "main": "index.js",
+  "keywords": ["middleware", "javascript", "chain of responsability"],
+  "main": "dist/index.js",
   "scripts": {
-    "build": "parcel build index.js",
+    "build": "parcel build index.js --out-dir ./dist",
     "test": "mocha",
     "test:debug": "mocha --inspect-brk",
     "publish:github": "npm test && npm build && npm publish"
