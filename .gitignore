@@ -1,2 +1,8 @@
+# ignored from project
 .cache
 node_modules
+
+# ignored from sample project
+sample/.cache
+sample/node_modules
+sample/dist
