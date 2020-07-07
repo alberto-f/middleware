@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@alberto-f/middleware": "^0.5.1"
+    "@alberto-f/middleware": "^0.5.3"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4"

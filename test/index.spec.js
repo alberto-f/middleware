@@ -1,5 +1,5 @@
 const assert = require('assert');
-const middleware = require('../index.js');
+const middleware = require('../source/index.js');
 
 describe('Specs for arguments passed to middleware functions', function () {
   it('should throw if receives something else than array as arguments', function () {
