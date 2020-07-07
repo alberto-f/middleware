@@ -1,6 +1,6 @@
 {
   "name": "@alberto-f/middleware",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "description": "Use the middleware pattern you loved from Express in any code",
   "keywords": [
     "middleware",
